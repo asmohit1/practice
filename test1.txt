@@ -1,5 +1,6 @@
 this is a testing file/
 fakdjfkladjlf
+<<<<<<< HEAD
 adkfjdjkfj
 dafdfadf
 dfadfad
@@ -8,3 +9,6 @@ adf
 
 
 adfadf
+=======
+adkfjdjkfj
+>>>>>>> 5f1b8a92463e6269be23f4b3a0d02793e56179a4
